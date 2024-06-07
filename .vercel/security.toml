@@ -1,0 +1,5 @@
+[[headers]]
+  pattern = "*"
+  headers = {
+    "Content-Security-Policy" = "script-src 'self'; style-src 'self' 'unsafe-inline'"
+  }

@@ -41,7 +41,7 @@ const Login = () => {
                 <div className="form-help">
                     <div className="remember">
                         <input type="checkbox" />
-                        <label htmlFor="">Remember Me</label>
+                        <label>Remember Me</label>
                     </div>
                     <p>Need Help?</p>
                 </div>
